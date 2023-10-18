@@ -1,11 +1,11 @@
 {
     "data": {
-        "auth": "0.0.2",
-        "state_management": "0.0.2",
-        "market_place": "0.0.2",
-        "questionnaire": "0.0.2",
-        "persional": "0.0.2",
-        "bookings": "0.0.2",
-        "casesapp": "0.0.2"
+        "auth": "0.0.3",
+        "state_management": "0.0.3",
+        "market_place": "0.0.3",
+        "questionnaire": "0.0.3",
+        "persional": "0.0.3",
+        "bookings": "0.0.3",
+        "casesapp": "0.0.3"
     }
 }
